@@ -9,6 +9,7 @@ const Shop=()=>
 {
     return(
         <div>
+          
      <Hero/>
      <Popular/>
      <br /><br />

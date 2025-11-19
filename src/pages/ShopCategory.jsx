@@ -4,7 +4,7 @@ import {ShopContext} from '../context/ShopContext'
 import { useContext } from 'react';
 import dropdown_icon from '../components/Assests/dropdown_icon.png'
 import all_product from '../components/Assests/all_product';
-import Item from '../components/item/Item';
+import Item from '../components/Item/Item';
 
 
 const ShopCategory = (props)=>
